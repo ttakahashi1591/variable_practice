@@ -1,4 +1,3 @@
-Types of Variables in Ruby
-String
-    - Username/handle
-    - Caption for an image
+email = "ttakahashi1591@gmail.com"
+address = "1811 S Quebec Way Apt 180"
+
